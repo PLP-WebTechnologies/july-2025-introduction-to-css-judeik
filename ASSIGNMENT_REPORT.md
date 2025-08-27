@@ -76,11 +76,7 @@ This project demonstrates the foundational principles of **CSS** by building a s
 | Form Fields      | `padding`, `margin`, `border` | Improves usability, separates fields.                                   |
 | Navbar Links     | `padding`, `margin`           | Provides clickable space and spacing between links.                     |
 
-## 📸 Screenshots  
-
-*(Add screenshots of your project here once you test it in the browser)*  
-
-Example:  
+## 📸 Screenshots    
 
 ![Homepage Screenshot](images/screenshot-home.png.png)  
 ![Shop Section Screenshot](images/screenshot-shop.png)  
